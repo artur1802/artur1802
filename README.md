@@ -25,16 +25,17 @@
 ---
 
 ## 🌟 Highlighted Projects
-- [📌 Heart Disease Prediction Web App ](https://github.com/artur1802/frontend-heart-predictor) [Live](https://frontend-heart-predictor-5-git-530957-arturos-projects-65f856a2.vercel.app/)
+- [📌 Heart Disease Prediction Web App ](https://github.com/artur1802/frontend-heart-predictor)
 This project combines Python, FastAPI, scikit-learn, and Next.js to predict the risk of heart disease using patient health indicators. I trained a Random Forest model that achieved ~85% accuracy and deployed a full-stack web app with an interactive frontend and real-time validation.
-  
-  <img width="631" height="862" alt="Screenshot 2025-08-16 120150" src="https://github.com/user-attachments/assets/1f1cd8d8-7bc1-4794-9451-3c2857e12719" />
+[Live](https://frontend-heart-predictor-5-git-530957-arturos-projects-65f856a2.vercel.app/)
+
+<img width="631" height="862" alt="Screenshot 2025-08-16 120150" src="https://github.com/user-attachments/assets/1f1cd8d8-7bc1-4794-9451-3c2857e12719" />
 
 
 - [📌 Vacation Booking System Migration ](https://github.com/artur1802/Back-End-Migration-to-Spring-Framework)  
 This project is a backend migration application for a travel agency, transitioning from a deprecated legacy system to a modern backend using the Spring framework. The backend supports a front-end Angular application that allows users to select vacation destinations, add excursions, and view the total price for the excursions.
 
-<img width="1901" height="899" alt="image" src="https://github.com/user-attachments/assets/eb122458-f538-4e68-8390-24adfe2cca03" />
+<img width="1893" height="893" alt="image" src="https://github.com/user-attachments/assets/1e4f15ff-0feb-4ed3-af61-1510e994f37c" />
 
 
 - [📌 Landon Hotel Scheduling Application](https://github.com/artur1802/Landon-Hotel-Sheduling-Application/tree/main)  
