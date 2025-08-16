@@ -5,8 +5,8 @@
 💡 I’m passionate about building software solutions that solve real-world problems.  
 🌱 Currently sharpening my skills in full-stack development & cloud technologies.  
 📌 Looking for opportunities as a **Software Engineer** where I can contribute, learn, and grow.  
-💬 Ask me about my projects
-📫 How to reach me: **arinco9@wgu.edu**  
+💬 Ask me about my projects.
+📫 How to reach me: **arinco9@wgu.edu**. 
 🌍 Fun fact: I love continuous learning and enjoy working on side projects to explore new technologies.  
 
 ---
@@ -25,7 +25,7 @@
 ---
 
 ## 🌟 Highlighted Projects
-- [📌 Heart Disease Prediction Web App ](https://frontend-heart-predictor-5-git-530957-arturos-projects-65f856a2.vercel.app/) (https://github.com/artur1802/frontend-heart-predictor)
+- [📌 Heart Disease Prediction Web App ](https://github.com/artur1802/frontend-heart-predictor) [Live](https://frontend-heart-predictor-5-git-530957-arturos-projects-65f856a2.vercel.app/)
 This project combines Python, FastAPI, scikit-learn, and Next.js to predict the risk of heart disease using patient health indicators. I trained a Random Forest model that achieved ~85% accuracy and deployed a full-stack web app with an interactive frontend and real-time validation.
   
   <img width="631" height="862" alt="Screenshot 2025-08-16 120150" src="https://github.com/user-attachments/assets/1f1cd8d8-7bc1-4794-9451-3c2857e12719" />
@@ -45,4 +45,4 @@ The Landon Hotel Scheduling Application is a modernized hotel reservation system
 ---
 
 ## 🔗 Connect with me:
-- 💼 LinkedIn: [Your LinkedIn link]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/arturorincon/]  
