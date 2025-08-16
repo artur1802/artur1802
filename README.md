@@ -1,12 +1,12 @@
 # Hi, I'm Arturo! 👋  
 ### Software Engineer | Open to Work 🚀  
 
-🎓 I hold a degree in **Computer Science**. 
+🎓 I hold a degree in **Computer Science**.  
 💡 I’m passionate about building software solutions that solve real-world problems.  
 🌱 Currently sharpening my skills in full-stack development & cloud technologies.  
 📌 Looking for opportunities as a **Software Engineer** where I can contribute, learn, and grow.  
-💬 Ask me about my projects.
-📫 How to reach me: **arinco9@wgu.edu**. 
+💬 Ask me about my projects.  
+📫 How to reach me: **arinco9@wgu.edu**.  
 🌍 Fun fact: I love continuous learning and enjoy working on side projects to explore new technologies.  
 
 ---
