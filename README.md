@@ -6,8 +6,8 @@
 🌱 Currently enhancing skills in modern web frameworks, scalable architectures, and cloud platforms (AWS/Azure).
 📌 Looking for opportunities as a **Software Engineer** where I can contribute, learn, and grow.  
 💬 **Ask me about my projects** – I’ve built applications involving data pipelines, predictive models, and interactive web solutions.  
-📫 Reach me: **arinco9@wgu.edu**.  
-🌍 Fun fact: I love continuous learning and enjoy working on side projects to explore new technologies.  
+📫 **Reach me**: **arinco9@wgu.edu**.  
+🌍 **Fun fact**: I love continuous learning and enjoy working on side projects to explore new technologies.  
 
 ---
 
