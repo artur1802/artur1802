@@ -27,9 +27,12 @@
 ## 🌟 Highlighted Projects
 - [📌 Heart Disease Prediction Web App ](https://github.com/artur1802/frontend-heart-predictor)
 This project combines Python, FastAPI, scikit-learn, and Next.js to predict the risk of heart disease using patient health indicators. I trained a Random Forest model that achieved ~85% accuracy and deployed a full-stack web app with an interactive frontend and real-time validation.
-[Live](https://frontend-heart-predictor-5-git-530957-arturos-projects-65f856a2.vercel.app/)
 
-<img width="631" height="862" alt="Screenshot 2025-08-16 120150" src="https://github.com/user-attachments/assets/1f1cd8d8-7bc1-4794-9451-3c2857e12719" />
+### 🚀 App Preview
+![App Demo](https://github.com/user-attachments/assets/101dfbd8-3072-48e2-b573-91a2a71f5bfb)
+
+<img width="843" height="793" alt="image" src="https://github.com/user-attachments/assets/ac33b99b-87f6-4029-a938-0675f7a31880" />
+
 
 
 - [📌 Vacation Booking System Migration ](https://github.com/artur1802/Back-End-Migration-to-Spring-Framework)  
