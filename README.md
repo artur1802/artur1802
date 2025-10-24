@@ -1,30 +1,40 @@
 # Hi, I'm Arturo! 👋  
-### Software Engineer | Open to Work 🚀  
-
-🎓 **Bachelor’s in Computer Science** – Experienced in designing and building software solutions that address real-world challenges.
-💡 Passionate about full-stack development, cloud technologies, and AI/ML applications.  
-🌱 Currently enhancing skills in modern web frameworks, scalable architectures, and cloud platforms (AWS/Azure).
-📌 Looking for opportunities as a **Software Engineer** where I can contribute, learn, and grow.  
-💬 **Ask me about my projects** – I’ve built applications involving data pipelines, predictive models, and interactive web solutions.  
-📫 **Reach me**: **arinco9@wgu.edu**.  
-🌍 **Fun fact**: I love continuous learning and enjoy working on side projects to explore new technologies.  
+### 💼 Data Analyst | Software Engineer (Data-Focused) | Open to Work 🚀  
+🎓 **Bachelor’s in Computer Science** – leveraging a strong software engineering foundation to design and build **data-driven analytical solutions.**  
+💡 Passionate about **data analytics**, **SQL**, **Power BI**, and **cloud technologies**, with a focus on transforming raw data into actionable insights that support smarter business decisions.  
+🌱 Currently expanding expertise in **data visualization**, **ETL pipelines**, and **automated reporting**, bridging the gap between engineering and analytics.  
+💬 Ask me about my projects – I’ve built applications involving **data pipelines**, **predictive models**, and **interactive web solutions.**  
+📫 **Reach me:** [arinco9@wgu.edu](mailto:arinco9@wgu.edu)  
+🌍 **Fun fact:** I love continuous learning and enjoy working on side projects to explore new technologies.    
 
 ---
 
 ## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" title="React"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" title="NodeJS"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40" title="SQL"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" title="Docker"/> 
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" alt="powerbi" width="40" height="40" title="Power BI"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40" title="Tableau"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" title="Azure"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" title="Git"/> 
+
 </p>
+
 
 ---
 
 ## 🌟 Highlighted Projects
+- [📌 U.S. Electricity Generation Analysis (2001–2022) — SQL Project ](https://github.com/artur1802/ELECTRICITY-GENERATION-SQL-QUERIES/tree/main)
+This project explores U.S. electricity generation trends from 2001 to 2022 through a series of SQL-based analyses. It examines national and state-level performance, growth rates, leading energy sources, and seasonal generation patterns to uncover key insights into how power production has evolved over time. The queries provide a data-driven foundation for understanding regional energy dynamics, supporting decision-making in sustainability and energy policy.
+
+### 🚀 App Preview
+![Recording8-ezgif com-optimize (1)](https://github.com/user-attachments/assets/29e2fe67-9f79-4cdd-bb69-cc9e0eecf3be)
+
+
 - [📌 Heart Disease Prediction Web App ](https://github.com/artur1802/frontend-heart-predictor)
 This project combines Python, FastAPI, scikit-learn, and Next.js to predict the risk of heart disease using patient health indicators. I trained a Random Forest model that achieved ~85% accuracy and deployed a full-stack web app with an interactive frontend and real-time validation.
 
