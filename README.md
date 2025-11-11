@@ -1,5 +1,5 @@
 # Hi, I'm Arturo! 👋  
-### 💼 Data Analyst | Software Engineer (Data-Focused) | Open to Work 🚀  
+### 💼 Software Engineer (Data-Focused) | Open to Work 🚀  
 🎓 **Bachelor’s in Computer Science** – leveraging a strong software engineering foundation to design and build **data-driven analytical solutions.**  
 💡 Passionate about **data analytics**, **SQL**, **Power BI**, and **cloud technologies**, with a focus on transforming raw data into actionable insights that support smarter business decisions.  
 🌱 Currently expanding expertise in **data visualization**, **ETL pipelines**, and **automated reporting**, bridging the gap between engineering and analytics.  
