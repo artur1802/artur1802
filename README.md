@@ -1,6 +1,6 @@
 # Hi, I'm Arturo! 👋  
 ### 💼 Software Engineer (Data-Focused) | Open to Work 🚀  
-🎓 **Bachelor’s in Computer Science** – building reliable, scalable, and data-driven software solutions.
+🎓 **Bachelor’s in Computer Science** – building reliable, scalable, and data-driven software solutions.  
 💡 Skilled in Python, Java, Next.js, Spring Boot, APIs, and machine learning, with hands-on experience developing full-stack applications, predictive models, and AI-powered tools.  
 🌱 Expanding expertise in data processing, ETL pipelines, AI model evaluation, and cloud technologies to deliver impactful solutions. 
 💬 Ask me about my projects! I’ve built predictive web apps, inventory and booking systems, and AI-based applications that optimize data workflows.  
