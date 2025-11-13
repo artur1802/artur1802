@@ -1,11 +1,11 @@
 # Hi, I'm Arturo! 👋  
 ### 💼 Software Engineer (Data-Focused) | Open to Work 🚀  
-🎓 **Bachelor’s in Computer Science** – leveraging a strong software engineering foundation to design and build **data-driven analytical solutions.**  
-💡 Passionate about **data analytics**, **SQL**, **Power BI**, and **cloud technologies**, with a focus on transforming raw data into actionable insights that support smarter business decisions.  
-🌱 Currently expanding expertise in **data visualization**, **ETL pipelines**, and **automated reporting**, bridging the gap between engineering and analytics.  
-💬 Ask me about my projects – I’ve built applications involving **data pipelines**, **predictive models**, and **interactive web solutions.**  
+🎓 **Bachelor’s in Computer Science** – building reliable, scalable, and data-driven software solutions.
+💡 Skilled in Python, Java, Next.js, Spring Boot, APIs, and machine learning, with hands-on experience developing full-stack applications, predictive models, and AI-powered tools.  
+🌱 Expanding expertise in data processing, ETL pipelines, AI model evaluation, and cloud technologies to deliver impactful solutions. 
+💬 Ask me about my projects! I’ve built predictive web apps, inventory and booking systems, and AI-based applications that optimize data workflows.  
 📫 **Reach me:** [arinco9@wgu.edu](mailto:arinco9@wgu.edu)  
-🌍 **Fun fact:** I love continuous learning and enjoy working on side projects to explore new technologies.    
+🌍 **Fun fact:** I enjoy learning new technologies and building side projects to explore the intersection of software engineering and AI.   
 
 ---
 
