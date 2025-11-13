@@ -4,7 +4,7 @@
 💡 Skilled in Python, Java, Next.js, Spring Boot, APIs, and machine learning, with hands-on experience developing full-stack applications, predictive models, and AI-powered tools.  
 🌱 Expanding expertise in data processing, ETL pipelines, AI model evaluation, and cloud technologies to deliver impactful solutions.  
 💬 Ask me about my projects! I’ve built predictive web apps, inventory and booking systems, and AI-based applications that optimize data workflows.  
-📫 **Reach me:** [arinco9@wgu.edu](mailto:arinco9@wgu.edu)  
+📫 **Reach me:** [artur17_01@hotmail.com](mailto:arinco9@wgu.edu)  
 🌍 **Fun fact:** I enjoy learning new technologies and building side projects to explore the intersection of software engineering and AI.   
 
 ---
